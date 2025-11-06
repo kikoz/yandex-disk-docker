@@ -1,0 +1,13 @@
+services:
+    yandex_disk:
+        image: yandex_disk
+        container_name: yandex_disk
+        environment:
+            - PUID=${APPUSER_PUID}
+            - PGID=${APPUSER_PGID}
+            - TZ=${TIME_ZONE_VALUE}
+        volumes:
+            - ${PATH_TO_APPDATA}/yandex_disk/config:/root/.config/yandex-disk
+            - ${PATH_TO_YANDEX_DISK}:/yandex
+        restart: unless-stopped
+        command: start
