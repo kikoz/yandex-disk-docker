@@ -1,6 +1,5 @@
 FROM debian:bookworm-slim
 
-LABEL author="kikozilla@gmail.com"
 LABEL description="Yandex Disk client container"
 
 ENV DATA="" \
