@@ -221,18 +221,6 @@ Configure the script path and run it as a scheduled task in OMV.
 
 ---
 
-## 📄 License
-
-This project is provided as-is for personal and commercial use.
-
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page or submit a pull request.
-
----
-
 ## 🔗 Links
 
 - [Yandex Disk CLI Documentation](https://yandex.ru/support/yandex-360/customers/disk/desktop/linux/ru/installation)
@@ -243,4 +231,16 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 - [OMV Documentation](https://docs.openmediavault.org/en/stable/index.html)
 - [OMV Extras Documentation](https://wiki.omv-extras.org/)
 - [OMV List of RPCs](https://github.com/openmediavault/openmediavault/blob/master/deb/openmediavault/usr/share/openmediavault/engined/rpc/exec.inc)
-- Based on projects from [ruslanys](https://github.com/ruslanys/docker-yandex.disk?tab=readme-ov-file) and [WorldException](https://github.com/WorldException/docker-yandex-disk/).
+- Based on projects from [ruslanys](https://github.com/ruslanys/docker-yandex.disk?tab=readme-ov-file), [WorldException](https://github.com/WorldException/docker-yandex-disk/) and [ipglotov](https://github.com/ipglotov/yandex-disk)
+
+---
+
+## 📄 License
+
+This project is provided as-is for personal and commercial use.
+
+---
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page or submit a pull request.
