@@ -4,7 +4,6 @@ LABEL description="Yandex Disk client container"
 
 ENV DATA="" \
     TOKEN_FILE="" \
-    INTERVAL="60" \
     EXCLUDE="" \
     OPTIONS=""
 
