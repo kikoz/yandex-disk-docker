@@ -232,6 +232,7 @@ Configure the script path and run it as a scheduled task in OMV.
 - [OMV Extras Documentation](https://wiki.omv-extras.org/)
 - [OMV List of RPCs](https://github.com/openmediavault/openmediavault/blob/master/deb/openmediavault/usr/share/openmediavault/engined/rpc/exec.inc)
 - Based on projects from [ruslanys](https://github.com/ruslanys/docker-yandex.disk?tab=readme-ov-file), [WorldException](https://github.com/WorldException/docker-yandex-disk/) and [ipglotov](https://github.com/ipglotov/yandex-disk)
+- [Image on Docker Hub](https://hub.docker.com/r/kikozilla/yandex-disk-docker)
 
 ---
 
